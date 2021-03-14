@@ -22,3 +22,12 @@ There's only one prerequisite for this project:
    * Media Stream
    * RTCDataChannel
    https://www.tutorialspoint.com/webrtc/webrtc_quick_guide.htm
+   
+   
+# Checkpoints 🏁
+
+* Simple First Pull Request
+* Intro to WebSockets and implementing a small websocket app using Node.JS
+* Intro to using WebRTC APIs in the project to get user's camera stream etc.
+* Connecting WebSockets and WebRTC APIs and 
+* Intro to PeerJS for simplifying the tasks
