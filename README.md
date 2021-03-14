@@ -1,3 +1,8 @@
+# Prerequisites Expected
+
+There's only one prerequisite for this project: 
+ Beginner level understanding of JavaScript or willingness to understand JavaScript fast.
+
 # Roadmap
 
 1. How WebRTC works?
