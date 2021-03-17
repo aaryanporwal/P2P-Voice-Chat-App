@@ -31,3 +31,6 @@ There's only one prerequisite for this project:
 * Intro to using WebRTC APIs in the project to get user's camera stream etc.
 * Connecting WebSockets and WebRTC APIs and 
 * Intro to PeerJS for simplifying the tasks
+
+# Contributors
+ * Shubhangi Bansal
